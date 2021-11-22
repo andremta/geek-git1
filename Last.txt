@@ -1,7 +1,6 @@
-Fiecheiro para test autent
-<<<<<<< HEAD
-
+Fiecheiro para test autenticação
 Nova correção de performance
-=======
+
 Corrigido por Felicity J
 
+Melhoria do código e limpeza do lixo

@@ -1,1 +1,2 @@
 Redução de linhas
+Otimização de desempenho

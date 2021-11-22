@@ -2,3 +2,5 @@ Melhoria de performance
 Redução de linhas
 Nova função
 melhor desempenho
+Novo processo de autenticação sso
+melhoria no carregamento
