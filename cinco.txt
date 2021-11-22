@@ -1,1 +1,2 @@
 Melhoria de performance
+Redução de linhas
