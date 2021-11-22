@@ -1,6 +1,9 @@
 Fiecheiro para test autenticação
 Nova correção de performance
-
 Corrigido por Felicity J
-
 Melhoria do código e limpeza do lixo
+{nova.função}
+    [if algumacoisa
+    them isto
+    else aquilo
+    ]
