@@ -1,3 +1,4 @@
 Melhoria de performance
 Redução de linhas
 Nova função
+melhor desempenho
