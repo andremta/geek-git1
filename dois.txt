@@ -1,3 +1,5 @@
 Um texto
 novo modelo de acesso seguro
 222222222222222
+Midificação depois de remover credencias com 
+#git config --global --unset credential.helper
