@@ -1,3 +1,7 @@
 Fiecheiro para test autent
+<<<<<<< HEAD
 
 Nova correção de performance
+=======
+Corrigido por Felicity J
+>>>>>>> d1723925fb32c26eec1aaffc116c79f76fd2c1cb
