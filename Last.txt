@@ -1,1 +1,3 @@
 Fiecheiro para test autent
+
+Nova correção de performance
