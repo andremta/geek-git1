@@ -1,2 +1,5 @@
 ooooooooooooooooo
+Substuída a função de cálculo
+função refeita para acelerar
+
 teste de performance
